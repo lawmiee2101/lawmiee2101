@@ -6,9 +6,9 @@
 <p align="center"><code>IT student @ PUP · frontend, networks, video</code></p>
 
 <p align="center">
-  <a href="https://belocura-lawrence-portfolio.vercel.app/"><img src="assets/b_portfolio.png" height="30" /></a>
-  <a href="https://github.com/lawmiee2101"><img src="assets/b_github.png" height="30" /></a>
-  <a href="https://www.linkedin.com/in/belocura-lawrence-m-a84240334/"><img src="assets/b_linkedin.png" height="30" /></a>
+  <a href="https://belocura-lawrence-portfolio.vercel.app/"><img src="assets/b_portfolio.png" height="30" alt="portfolio" /></a>
+  <a href="https://github.com/lawmiee2101"><img src="assets/b_github.png" height="30" alt="github" /></a>
+  <a href="https://www.linkedin.com/in/belocura-lawrence-m-a84240334/"><img src="assets/b_linkedin.png" height="30" alt="linkedin" /></a>
   <img src="assets/b_ojt.png" height="30" />
 </p>
 
