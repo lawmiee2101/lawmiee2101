@@ -9,7 +9,7 @@
   <a href="https://belocura-lawrence-portfolio.vercel.app/"><img src="assets/b_portfolio.png" height="30" alt="portfolio" /></a>
   <a href="https://github.com/lawmiee2101"><img src="assets/b_github.png" height="30" alt="github" /></a>
   <a href="https://www.linkedin.com/in/belocura-lawrence-m-a84240334/"><img src="assets/b_linkedin.png" height="30" alt="linkedin" /></a>
-  <img src="assets/b_ojt.png" height="30" />
+  <img src="assets/b_ojt.png" height="30" alt="open to OJT" />
 </p>
 
 i make frontend stuff, mess around with network topologies in packet tracer, and edit videos for Cisco NetConnect PUP.
@@ -25,7 +25,7 @@ the characters up top are mine too, i draw pixel art when i'm not coding.
   <a href="https://github.com/lawmiee2101/Portfolio"><img src="assets/card_portfolio.png" width="49%" /></a>
 </p>
 
-<a href="https://github.com/lawmiee2101?tab=repositories"><img src="assets/c_repos.png" height="30" /></a>
+<a href="https://github.com/lawmiee2101?tab=repositories"><img src="assets/c_repos.png" height="30" alt="all repos" /></a>
 
 ### 🏅 achievements
 
